@@ -1,4 +1,4 @@
-# NCPL Project 3 — E-Commerce Sales Forecasting and Intelligent Reporting
+# E-Commerce Sales Forecasting and Intelligent Reporting
 
 ## Project Overview
 
